@@ -1,0 +1,21 @@
+.infoitem {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    width: 155px;
+    margin-bottom: 25px;
+}
+
+.infoitem i {
+    font-size: 25px;
+}
+
+.infoitem label {
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.infoitem p {
+    margin-bottom: 2px;
+    font-size: 13px;
+}
